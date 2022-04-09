@@ -1,0 +1,10 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl baton
+Kd 0.800000 0.351504 0.046236
+illum 0
+
+newmtl baton2
+Kd 0.893978 0.512457 0.000651
+illum 0
